@@ -1,0 +1,6 @@
+---
+applications:
+- name: myHDIServlet
+buildpack: sap_java_buildpack
+services:
+- first_db
